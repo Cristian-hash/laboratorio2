@@ -3,4 +3,4 @@
 
 void B::foo(){
     std::cout << "B";
-}
+};

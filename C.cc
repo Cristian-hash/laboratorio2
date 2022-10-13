@@ -3,4 +3,4 @@
 
 void C::foo(){
     std::cout << "C";
-}
+};
